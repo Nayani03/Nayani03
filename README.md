@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello 👋 I'm Nayani Ranaut
 
-<!--
-**Nayani03/Nayani03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  4th year Computer Science student at Chandigarh University
+### Student intern at Nokia Solutions and Networks
+<a href="https://github.com/"><img align='right' src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300" height="220"> </a>
+About Me:
 
-Here are some ideas to get you started:
+- 🔭 Aspiring Android Developer
+- 🌱 I’m currently learning automation
+- 🤔 Likes problem solving
+- 📫 How to reach me: nayniranaut@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/nayani-ranaut-07a869195" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nayani" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nayniranaut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="nayani" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nayniranaut/profile" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="nayani" height="30" width="40" /></a>
+</p>
+
