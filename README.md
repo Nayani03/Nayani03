@@ -21,19 +21,20 @@ About Me:
 ### Languages:
 
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/xml-transformer.png"/> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png" />
-<br />
-<br />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nayani03&show_icons=true&locale=en&layout=compact" alt="nayani" />
-<br />
 
 ### IDE and Tools:
 <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/>  <img height="40" width="40" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png"/>  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="40" width="40"  src="https://img.icons8.com/color/48/000000/firebase.png"/> <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nayani03&show_icons=true&locale=en&layout=compact" alt="nayani" />
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nayani03&show_icons=true&locale=en" alt="nayani" /></p>
+<br />
+<br />
 <br />
 <br /><br />
 <br />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nayani03&show_icons=true&locale=en" alt="khushboogoel01" /></p>
+<br />
+<br />
 
 - ⚡ Don't forget to check out my latest projects:
 
