@@ -35,6 +35,8 @@ About Me:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nayani03&show_icons=true&locale=en" alt="khushboogoel01" /></p>
 
+- ⚡ Don't forget to check out my latest projects:
+
 
 
 
