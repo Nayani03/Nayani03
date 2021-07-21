@@ -38,7 +38,7 @@ About Me:
 
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nayani03&show_icons=true&locale=en&layout=compact" alt="nayani"  />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nayani03&show_icons=true&locale=en" alt="nayani"> </div>
+<img align=right src="https://github-readme-stats.vercel.app/api?username=Nayani03&show_icons=true&locale=en" alt="nayani"> </div>
 
 </div>
 
