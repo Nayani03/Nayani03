@@ -27,7 +27,7 @@ About Me:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nayani03&show_icons=true&locale=en&layout=compact" alt="nayani" />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nayani03&show_icons=true&locale=en" alt="nayani" /></p>
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nayani03&show_icons=true&locale=en" alt="nayani" />
 <br />
 <br />
 <br />
