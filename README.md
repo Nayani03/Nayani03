@@ -28,9 +28,13 @@ About Me:
 <br />
 
 ### IDE and Tools:
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/> <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="40" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/>  <img height="40" width="40" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png"/>  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="40" width="40"  src="https://img.icons8.com/color/48/000000/firebase.png"/> <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
 <br />
 <br /><br />
 <br />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nayani03&show_icons=true&locale=en" alt="khushboogoel01" /></p>
+
+
 
 
